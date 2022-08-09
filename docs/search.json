@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-08T20:48:52-04:00"
+    },
+    {
+      "path": "analysis.html",
+      "title": "Social Capital",
+      "author": [],
+      "date": "2022-08-02",
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEconomic Connectedness Analysis\r\n\r\n\r\nHome\r\nAbout\r\n☰\r\n\r\n\r\n  \r\n    \r\n      \r\n        \r\n        \r\n        \r\n      \r\n      \r\n    \r\n    \r\n      \r\n  Home\r\n\r\n\r\n  About\r\n\r\n      \r\n  \r\n\r\n\r\n\r\n\r\n\r\n\r\nSocial Capital\r\n2022-08-02\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-08T20:48:59-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Economic Connectedness Analysis",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-08T20:49:05-04:00"
+    }
+  ],
+  "collections": []
+}
